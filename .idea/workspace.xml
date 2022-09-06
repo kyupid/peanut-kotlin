@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1530d39c-c758-421a-9d3f-71fbf0862e58" name="Changes" comment="심심푸리 리두미">
+    <list default="true" id="1530d39c-c758-421a-9d3f-71fbf0862e58" name="Changes" comment="심심푸리 빠이널과 오쁜">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,13 +30,13 @@
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainKt" />
@@ -60,6 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1662103789183</updated>
       <workItem from="1662103790774" duration="2743000" />
+      <workItem from="1662460820500" duration="1457000" />
     </task>
     <task id="LOCAL-00001" summary="심심풀이 코틀린 초기화">
       <created>1662103996346</created>
@@ -75,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662104068504</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="심심푸리 빠이널과 오쁜">
+      <created>1662461139176</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662461139176</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +103,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="심심풀이 코틀린 초기화" />
     <MESSAGE value="심심푸리 리두미" />
-    <option name="LAST_COMMIT_MESSAGE" value="심심푸리 리두미" />
+    <MESSAGE value="심심푸리 빠이널과 오쁜" />
+    <option name="LAST_COMMIT_MESSAGE" value="심심푸리 빠이널과 오쁜" />
   </component>
 </project>
